@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @sleek-aryan 
 - 👀 I’m interested in learning programming and look forward to have fun.
-- 🌱 I’m currently learning c,c++,Java python and App devlopment.
 - 💞️ I’m looking to collaborate on projects to build the desired resume. 
 - 📫 How to reach me ...(Just dont :) )
